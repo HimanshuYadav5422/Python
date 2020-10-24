@@ -1,2 +1,4 @@
+# Himanshu Yadav
+# 19/78056
 # Python
-Year II Sem III
+Code for python practicals.
